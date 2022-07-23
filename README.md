@@ -1,1 +1,1 @@
-# Games  This folder include games that i have built using jquery.
+# Games i have built a traffic racer game using jquery.
