@@ -1,4 +1,3 @@
-/* Arshad Muhammed */
 $(function() {
 
     var anim_id;
